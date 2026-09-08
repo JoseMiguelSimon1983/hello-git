@@ -1,2 +1,2 @@
 print("Hellogit2")
-print("Estoy aprendiendo git");
+print("Estoy aprendiendo git")
